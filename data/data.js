@@ -2,7 +2,7 @@ const lectureList = {
   documentTitle: "Array Methods tartalomjegyzék",
   lectures: [
     {
-      title: "A Tömb",
+      title: "01. A Tömb",
       questions: [
         "Mi az a tömb?",
         "Hogyan hozunk létre egy tömböt?",
