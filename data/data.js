@@ -7,13 +7,19 @@ const lectureList = {
         "Mi az a tömb?",
         "Hogyan hozunk létre egy tömböt?",
         "Hogy érjük el egy tömb elemét/elemeit?",
-        "Honna tudhatom egy változóról biztosan, hogy tömb?",
+        "Honnan tudhatom egy változóról biztosan, hogy tömb?",
         "Hogy határozzuk meg a tömb hosszát?",
       ],
     },
     {
-      title: "EP 2 Coming soon...",
-      questions: [],
+      title: "02. Első és utolsó elem",
+      questions: [
+        "Hogy adunk hozzá egy elemet a tömb végéhez?",
+        "Hogy törlünk egy elemet a tömb végérõl?",
+        "Hogy szúrunk be egy elemet a tömb elejére?",
+        "Hogy törlünk egy elemet a tömb elejérõl?",
+        "Hogy fûzünk össze két tömböt?",
+      ],
     },
     {
       title: "EP 3 Coming soon...",

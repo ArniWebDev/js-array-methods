@@ -67,7 +67,7 @@ const populateUI = () => {
 };
 
 wrapper.addEventListener("click", (e) => {
-  if (e.srcElement.nodeName !== "BUTTON") {
+  if (e.srcElement.nodeName === "FOOTER") {
     changeTitle(lectureList.documentTitle);
     removeQuestions();
     localStorage.clear();

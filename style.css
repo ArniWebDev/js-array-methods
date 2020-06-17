@@ -6,6 +6,7 @@
 
 body {
   color: white;
+  font-family: sans-serif;
 }
 
 .wrapper {
@@ -58,4 +59,8 @@ button:focus {
 ul {
   list-style: none;
   font-size: 2em;
+}
+
+ul li {
+  margin-bottom: 8px;
 }
