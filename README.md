@@ -1,4 +1,4 @@
-# js-array-methods
+## js-array-methods
 
 A JavaScript Array Methods címû sorozat GIT repo-ja
 
@@ -12,9 +12,9 @@ A JavaScript Array Methods címû sorozat GIT repo-ja
 
 ## 02. Első és utolsó elem
 
-- Mi az a FIFO és LIFO?
 - Hogy adunk hozzá egy elemet a tömb végéhez?
 - Hogy törlünk egy elemet a tömb végéről?
 - Hogy szúrunk be egy elemet a tömb elejére?
 - Hogy törlünk egy elemet a tömb elejéről?
 - Hogy fûzünk össze két tömböt?
+- Mi az a FIFO és LIFO?

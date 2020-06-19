@@ -19,6 +19,7 @@ const lectureList = {
         "Hogy szúrunk be egy elemet a tömb elejére?",
         "Hogy törlünk egy elemet a tömb elejérõl?",
         "Hogy fûzünk össze két tömböt?",
+        "Mi az a FIFO és LIFO?",
       ],
     },
     {
