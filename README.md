@@ -18,3 +18,9 @@ A JavaScript Array Methods címû sorozat GIT repo-ja
 - Hogy törlünk egy elemet a tömb elejéről?
 - Hogy fûzünk össze két tömböt?
 - Mi az a FIFO és LIFO?
+
+## 03. Benne van a tömbben?
+
+- Hogyan határozom meg, hogy az elem benne van-e a tömbben?
+- Melyik indexen találom az elemet?
+- Melyik az utolsó elõfordulási indexe az elemnek?

@@ -1,6 +1,5 @@
 * {
   margin: 0;
-  padding: 0;
   box-sizing: border-box;
 }
 
@@ -57,7 +56,6 @@ button:focus {
 }
 
 ul {
-  list-style: none;
   font-size: 2em;
 }
 

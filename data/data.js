@@ -23,8 +23,12 @@ const lectureList = {
       ],
     },
     {
-      title: "EP 3 Coming soon...",
-      questions: [],
+      title: "03. Benne van a tömbben?",
+      questions: [
+        "Hogyan határozom meg, hogy egy elem benne van-e a tömbben?",
+        "Melyik indexen találom az elemet?",
+        "Melyik az utolsó elõfordulási indexe az elemnek?",
+      ],
     },
     {
       title: "EP 4 Coming soon...",
