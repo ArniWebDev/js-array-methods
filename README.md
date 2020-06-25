@@ -19,7 +19,7 @@ A JavaScript Array Methods címû sorozat GIT repo-ja
 - Hogy fûzünk össze két tömböt?
 - Mi az a FIFO és LIFO?
 
-## 03. Benne van a tömbben?
+## 03. Benne van-e a tömbben?
 
 - Hogyan határozom meg, hogy az elem benne van-e a tömbben?
 - Melyik indexen találom az elemet?

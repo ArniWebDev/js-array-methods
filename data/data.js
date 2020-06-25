@@ -23,7 +23,7 @@ const lectureList = {
       ],
     },
     {
-      title: "03. Benne van a tömbben?",
+      title: "03. Benne van-e a tömbben?",
       questions: [
         "Hogyan határozom meg, hogy egy elem benne van-e a tömbben?",
         "Melyik indexen találom az elemet?",
