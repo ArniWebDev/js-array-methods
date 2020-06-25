@@ -31,8 +31,11 @@ const lectureList = {
       ],
     },
     {
-      title: "EP 4 Coming soon...",
-      questions: [],
+      title: "04. Tömbbõl Stringet",
+      questions: [
+        "Hogyan alakítunk át egy array-t String típussá?",
+        "Hogyan választhatjuk el az array elemeit tetszõleges",
+      ],
     },
     {
       title: "EP 5 Coming soon...",

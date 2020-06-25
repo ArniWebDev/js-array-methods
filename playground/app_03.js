@@ -1,4 +1,4 @@
-console.log("Benne van a tömbben?");
+console.log("Benne van-e a tömbben?");
 // Kezdoertekkel latjuk el a tombunket
 let arr = ["alma", "korte", "alma", "citrom", "alma", "malna", "barack"];
 
