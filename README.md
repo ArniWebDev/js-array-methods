@@ -24,3 +24,8 @@ A JavaScript Array Methods címû sorozat GIT repo-ja
 - Hogyan határozom meg, hogy az elem benne van-e a tömbben?
 - Melyik indexen találom az elemet?
 - Melyik az utolsó elõfordulási indexe az elemnek?
+
+## 04. Tömbbõl Stringet
+
+- Hogyan alakítunk át egy array-t String típussá?
+- Hogyan választhatjuk el az array elemeit tetszõlegesen?

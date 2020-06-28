@@ -12,7 +12,7 @@ let arrArr = [
   "in",
   "array",
   "!",
-  ["masodik", "szint", "!", ["harmadik, szint"]],
+  ["masodik", "szint", "!", ["harmadik", "szint"]],
 ];
 
 // 1. Hogyan alakítunk át egy array-t String típussá?

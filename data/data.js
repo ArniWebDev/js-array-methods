@@ -34,7 +34,7 @@ const lectureList = {
       title: "04. Tömbbõl Stringet",
       questions: [
         "Hogyan alakítunk át egy array-t String típussá?",
-        "Hogyan választhatjuk el az array elemeit tetszõleges",
+        "Hogyan választhatjuk el az array elemeit tetszõlegesen?",
       ],
     },
     {
