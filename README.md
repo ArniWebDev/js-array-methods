@@ -29,3 +29,12 @@ A JavaScript Array Methods címû sorozat GIT repo-ja
 
 - Hogyan alakítunk át egy array-t String típussá?
 - Hogyan választhatjuk el az array elemeit tetszõlegesen?
+
+## 05. Tömb elemeinek módosítása
+
+- Hogyan módosítjuk a tömb egy tetszõleges elemét?
+- Hogyan tüntetjük el a beágyazott tömböket?
+- Hogyan vágunk ki egy adott részt a tömbbõl?
+- Hogyan törlünk elemet/elemeket?
+- Hogyan szúrunk be a tömbe elemet/elemeket?
+- Hogyan írjuk felül önmagával a tömböt?

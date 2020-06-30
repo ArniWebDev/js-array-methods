@@ -38,8 +38,15 @@ const lectureList = {
       ],
     },
     {
-      title: "EP 5 Coming soon...",
-      questions: [],
+      title: "05. Tömb elemeinek módosítása",
+      questions: [
+        "Hogyan módosítjuk a tömb egy tetszõleges elemét?",
+        "Hogyan tüntetjük el a beágyazott tömböket?",
+        "Hogyan vágunk ki egy adott részt a tömbbõl?",
+        "Hogyan törlünk elemet/elemeket?",
+        "Hogyan szúrunk be a tömbe elemet/elemeket?",
+        "Hogyan írjuk felül önmagával a tömböt?",
+      ],
     },
     {
       title: "EP 6 Coming soon...",
