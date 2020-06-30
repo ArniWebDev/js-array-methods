@@ -36,5 +36,5 @@ A JavaScript Array Methods címû sorozat GIT repo-ja
 - Hogyan tüntetjük el a beágyazott tömböket?
 - Hogyan vágunk ki egy adott részt a tömbbõl?
 - Hogyan törlünk elemet/elemeket?
-- Hogyan szúrunk be a tömbe elemet/elemeket?
+- Hogyan szúrunk be a tömbbe elemet/elemeket?
 - Hogyan írjuk felül önmagával a tömböt?
