@@ -38,3 +38,8 @@ A JavaScript Array Methods címû sorozat GIT repo-ja
 - Hogyan törlünk elemet/elemeket?
 - Hogyan szúrunk be a tömbbe elemet/elemeket?
 - Hogyan írjuk felül önmagával a tömböt?
+
+## 06. Tömb rendezése
+
+- Hogyan fordítjuk meg egy tömb elemeinek a sorrendjét?
+- Hogyan rendezzük a tömb elemeit növekvõ/csökkenõ sorrendbe?

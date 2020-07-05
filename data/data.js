@@ -49,8 +49,11 @@ const lectureList = {
       ],
     },
     {
-      title: "EP 6 Coming soon...",
-      questions: [],
+      title: "Tömb rendezése",
+      questions: [
+        "Hogyan fordítjuk meg egy tömb elemeinek a sorrendjét?",
+        "Hogyan rendezzük a tömb elemeit növekvõ/csökkenõ sorrendbe?",
+      ],
     },
     {
       title: "EP 7 Coming soon...",
