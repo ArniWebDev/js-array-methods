@@ -49,15 +49,18 @@ const lectureList = {
       ],
     },
     {
-      title: "Tömb rendezése",
+      title: "06. Tömb rendezése",
       questions: [
         "Hogyan fordítjuk meg egy tömb elemeinek a sorrendjét?",
         "Hogyan rendezzük a tömb elemeit növekvõ/csökkenõ sorrendbe?",
       ],
     },
     {
-      title: "EP 7 Coming soon...",
-      questions: [],
+      title: "07. while ciklus",
+      questions: [
+        "Hogyan mûködik a while ciklus?",
+        "Hogyan járunk be egy tömböt a while ciklussal?",
+      ],
     },
     {
       title: "EP 8 Coming soon...",
