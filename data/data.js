@@ -63,12 +63,17 @@ const lectureList = {
       ],
     },
     {
-      title: "EP 8 Coming soon...",
-      questions: [],
+      title: "08. do..while ciklus",
+      questions: ["Hogyan mûködik a do..while ciklus?"],
     },
     {
-      title: "EP 9Coming soon...",
-      questions: [],
+      title: "09. for ciklus",
+      questions: [
+        "Hogyan mûködik a for ciklus?",
+        "Hogyan járunk be egy tömböt a for ciklussal?",
+        "Tömb bejárása összehasonlítás: for, while, do..while",
+        "A reverse array algoritmus: for, while, do..while ciklusokkal.",
+      ],
     },
     {
       title: "EP 10 Coming soon...",
